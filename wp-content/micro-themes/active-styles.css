@@ -1,0 +1,49 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= General =================== */
+
+/** General >> .tribe-bar-submit [type="submit"] **/
+.tribe-bar-submit [type="submit"] {
+	background: #000022 !important;
+}
+
+/** General >> .tribe-events-list-separator-month span **/
+.tribe-events-list-separator-month span {
+	font-size: 45px !important;
+	font-weight: bolder !important;
+}
+
+/** General >> .tribe-event-url **/
+.tribe-event-url {
+	font-size: 35px !important;
+	font-weight: bold !important;
+}
+
+/** General >> .tribe-event-date-start **/
+.tribe-event-date-start {
+	font-size: 25px !important;
+}
+
+/** General >> .tribe-event-time **/
+.tribe-event-time {
+	font-size: 25px !important;
+}
+
+/** General >> .tribe-events-venue-details **/
+.tribe-events-venue-details {
+	color: red !important;
+	font-size: 16px !important;
+	font-weight: inherit !important;
+}
+
+/** General >> .description p **/
+.description p {
+	font-size: 22px !important;
+}
+
+/** General >> .tribe-events-read-more **/
+.tribe-events-read-more {
+	font-size: 20px !important;
+}
+
